@@ -1,0 +1,9 @@
+Data Pre-Processing Pipeline
+A_clean_jsons.py
+A_filter_jsons.py
+A_format_json.py
+
+JSON files with 'actionobject' mean they both action and object labels are present
+example: train_dataset_actionobject_clean_yolo.JSON
+
+JSON files with only "_action_" keyword mean that all action labels are present
